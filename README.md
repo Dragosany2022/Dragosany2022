@@ -7,10 +7,13 @@
 </div>
 
 
-<div id="badges" align="center">  
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-  [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
-  [![](https://https://img.shields.io/badge/Hugging_Face-yelow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/FabianOvalle)
+<div id="badges" align="center">
+  
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+  [![](https://img.shields.io/badge/Hugging_Face-yelow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/FabianOvalle/) 
+  [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+ 
+  
 </div>
 
 
