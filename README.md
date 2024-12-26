@@ -1,4 +1,7 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+<div id="header" align="center">
+  <img decoding="async" src="https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/griou1bnai9l/b/ImageHub/o/Banner_Github.png" width="800"/>
+</div>
 
 <!--
 **Dragosany2022/Dragosany2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
