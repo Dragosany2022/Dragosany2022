@@ -7,6 +7,12 @@
 </div>
 
 ## Sobre mi
+
++ :cloud: Arquitecto cloud
++ :hammer: Desarrollador de proyectos en IA generativa y Aprendizaje automático
++ :electron: Trabajo con tarjetas de desarrollo para sistemas de computación de borde, IoT e IA como la Raspberry PI y la NVIDIA Jetson NANO
++ :factory: Programador de sistemas embebidos STM32, PIC y ESP32
+
 <!--
 **Dragosany2022/Dragosany2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
