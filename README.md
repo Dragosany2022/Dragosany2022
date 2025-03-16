@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-  <img decoding="async" src="https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/griou1bnai9l/b/ImageHub/o/Banner_GitHub_RobotIA.png" width="800"/>
+  <img decoding="async" src="https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/griou1bnai9l/b/ImageHub/o/Banner_GitHub_RobotIA(1).jpg" width="800"/>
 </div>
 
 
