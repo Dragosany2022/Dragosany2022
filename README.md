@@ -21,7 +21,7 @@
 
 + :cloud: Arquitecto cloud
 + :hammer: Desarrollador de proyectos en IA generativa y Aprendizaje automático
-+ :electron: Experiencia con el uso y trabajo de tarjetas de desarrollo para sistemas de computación de borde, IoT e IA como la Raspberry PI y la NVIDIA Jetson NANO
++ :electron: Experiencia con el uso y trabajo en tarjetas de desarrollo para sistemas de computación de borde, IoT e IA como la Raspberry PI y la NVIDIA Jetson NANO
 + :factory: Programador de sistemas embebidos STM32, PIC y ESP32
 
 <!--
